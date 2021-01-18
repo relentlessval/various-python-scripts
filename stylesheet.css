@@ -1,7 +1,16 @@
 .main {
     margin: 0%;
     max-width: 70%;
-    background-color: #ffb6c1;
+    background-color: darkblue;
+}
+
+.vl {
+    border-left: 6px solid black;
+    height: 25px;
+    position: relative;
+    left: 0;
+    margin-left: -3px;
+    top: 0;
 }
 
 body {
